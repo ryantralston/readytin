@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Looking for The Original ReadyTin?
 
-You can use the [editor on GitHub](https://github.com/ryantralston/readytin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's with deep regret that we inform you of the discontinuation of ReadyTin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We started in 2012 with big dreams of placing preparation in the pocket of every hiker, traveler, parent, student, and more. Despite our best intentions, we fell short of our ambitious goals and decided to close our doors in 2018. We apologize for not being able to continue to serve those who have grown to love our products through the years. We hope you can take with you the mission of "Always Ready" and continue to share the spirit everyday preparedness with others as a legacy to our products.
 
-### Markdown
+Sincerely,
+The ReadyTin Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryantralston/readytin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
